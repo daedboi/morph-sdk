@@ -8,13 +8,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/daedboi/morpheusswap-sdk
+git clone https://github.com/daedboi/morph-sdk
 ```
 
 Move into the pancakeswap-sdk working directory
 
 ```sh
-cd morpheusswap-sdk/
+cd morph-sdk/
 ```
 
 Install dependencies
