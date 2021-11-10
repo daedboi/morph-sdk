@@ -1,5 +1,4 @@
 import JSBI from 'jsbi'
-
 import { SolidityType } from '../constants'
 import { validateSolidityTypeInstance } from '../utils'
 
